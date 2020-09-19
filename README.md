@@ -3,8 +3,8 @@
 Hi! I am Daniel, Data Scientist and Machine Learning Engineer.
 
 * Currently I am:
-  + Machine Learning Enginner at Inter-American Development Bank (USA) 🤖;
-  + Part-Time Teacher at Universidad Nacional de Colombia (COL);
+  + Machine Learning Enginner at Inter-American Development Bank (USA 🇺🇸) 🤖;
+  + Part-Time Teacher at Universidad Nacional de Colombia (COL 🇨🇴);
 * Areas of Interest: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
 *  Reach me in : www.danieljimenezm.com
