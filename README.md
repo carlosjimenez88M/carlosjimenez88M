@@ -27,6 +27,8 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 <img align="left" alt="Terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<img align="left" alt="R" width="31px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
+
 <!--
 **carlosjimenez88M/carlosjimenez88M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
