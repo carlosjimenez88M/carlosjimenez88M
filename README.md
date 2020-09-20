@@ -46,7 +46,7 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 [<img align="left" alt="danielblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.danieljimenezm.com)
 
-[<img align="left" alt="danielmail" width="82px" src="https://blog.phonehouse.es/wp-content/uploads/2017/06/gmail-doubletick-1.jpg" />](danieljimenez88m@gmail.com)
+[<img align="left" alt="danielmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1024px-Gmail_Icon.svg.png" />](danieljimenez88m@gmail.com)
 
 
 <!--
