@@ -2,8 +2,8 @@
 
 I'm  Data Scientist and Machine Learning Engineer.
 
-* Currently I working at:
-  + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
+* Currently I working as:
+  + Machine Learning Enginner  [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
   + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴);
 * Areas of Interest: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
@@ -12,6 +12,7 @@ I'm  Data Scientist and Machine Learning Engineer.
     + [Linkedin](https://www.linkedin.com/in/djimenezm/)
 
 <br />
+
 ## Lenguaje and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
