@@ -37,7 +37,7 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 ## Connect with me
 
-[<img align="left" alt="daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin](https://www.linkedin.com/in/djimenezm/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **carlosjimenez88M/carlosjimenez88M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
