@@ -41,12 +41,12 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/djimenezm/)
 
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/djimenezm/)
 
 
-[<img align="left" alt="danielblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][www.danieljimenezm.com]
 
-[<img align="left" alt="danielmail" width="22px" src="https://blog.phonehouse.es/wp-content/uploads/2017/06/gmail-doubletick-1.jpg" />][danieljimenez88m@gmail.com]
+[<img align="left" alt="danielblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.danieljimenezm.com)
+
+[<img align="left" alt="danielmail" width="22px" src="https://blog.phonehouse.es/wp-content/uploads/2017/06/gmail-doubletick-1.jpg" />](danieljimenez88m@gmail.com)
 
 
 <!--
