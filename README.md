@@ -15,6 +15,14 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 ## Lenguaje and Tools
 
+<img align="left" alt="R" width="31px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
+
+
+<img align="left" alt="Python" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+
+<img align="left" alt="GCP" width="31px" src="https://genuinocloud.com/wp-content/uploads/2019/09/mx-con-datos-de-genuinocloud-cloud-dns-de-gcp-logo-genuinocloud.com.jpg" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="MySQL" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -27,7 +35,7 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 <img align="left" alt="Terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="R" width="31px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
+
 
 <!--
 **carlosjimenez88M/carlosjimenez88M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
