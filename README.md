@@ -6,13 +6,13 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
   + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
   + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴);
 
-* Skilled in: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
+* __Skilled in__: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
 
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
 
-*  Here you canf find my [Tidytuesday](https://github.com/carlosjimenez88M/Tidy-tuesday) practices.
+* Here you can find my [Tidytuesday](https://github.com/carlosjimenez88M/Tidy-tuesday) practices.
 
-* Research Interests : Machine Learning Applications, Statistical Modelling, RNS-seq, Computational Vision and Linear Algebra.
+* __Research Interests__ : Machine Learning Applications, Statistical Modelling, RNS-seq, Computational Vision and Linear Algebra.
 
 
 
