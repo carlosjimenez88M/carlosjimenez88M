@@ -14,7 +14,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
 
 * __Research Interests__ : Machine Learning Applications, Statistical Modelling, RNS-seq, Computational Vision and Linear Algebra.
 
-* Here you can find my [portfolio](https://github.com/carlosjimenez88M/Portfolio/blob/gh-pages/index.md)
+* Here you can find my [portfolio](https://github.com/carlosjimenez88M/Portfolio/blob/gh-pages/index.md) services.
 
 
 <br />
