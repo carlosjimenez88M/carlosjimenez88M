@@ -1,6 +1,6 @@
 ### Hi there 👨🏻‍💻 I 'm Daniel
 
-I'm  Data Scientist and Machine Learning Engineer.
+Experienced Senior Data Scientist with a demonstrated history of working in the Startups and public institutions between USA, Colombia, Chile and México. With more than ten years of experience applying and development Machine Learning models to real world.
 
 * Currently I working as:
   + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
@@ -10,7 +10,7 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
 
-*  [Tidytuesday](https://github.com/carlosjimenez88M/Tidy-tuesday) practices.
+*  Here you canf find my [Tidytuesday](https://github.com/carlosjimenez88M/Tidy-tuesday) practices.
 
 * Research Interests : Machine Learning Applications, Statistical Modelling, RNS-seq, Computational Vision and Linear Algebra.
 
@@ -39,6 +39,8 @@ I'm  Data Scientist and Machine Learning Engineer.
 
 
 <img align="left" alt="Terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" alt="LaTeX" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png" />
 
 <br />
 
