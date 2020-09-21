@@ -5,11 +5,16 @@ I'm  Data Scientist and Machine Learning Engineer.
 * Currently I working as:
   + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
   + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴);
-* Areas of Interest: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
+
+* Skilled in: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
+
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
-*  Reach me in : 
-    + www.danieljimenezm.com
-    + [Linkedin](https://www.linkedin.com/in/djimenezm/)
+
+*  [Tidytuesday](https://github.com/carlosjimenez88M/Tidy-tuesday) practices.
+
+* Research Interests : Machine Learning Applications, Statistical Modelling, RNS-seq, Computational Vision and Linear Algebra.
+
+
 
 <br />
 
