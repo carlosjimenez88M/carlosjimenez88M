@@ -5,6 +5,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
 * Currently I working as:
   + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
   + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴);
+  + Senior Data Scientist at [Globant](https://www.globant.com/)
 
 * __Skilled in__: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
 
