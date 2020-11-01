@@ -7,7 +7,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
   + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴);
   + Senior Data Scientist at [Globant](https://www.globant.com/) (COL 🇨🇴)
 
-* __Skilled in__: NLP, Deep Learning, Statistical Engineering, Artificial Intelligence, Forecasting, Bio-statistics and Bayesian Data Analysis.
+* __Skilled in__: NLP, Applied Machine Learning, Statistical Engineering, Forecasting, Bio-statistics and Bayesian Data Analysis.
 
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
 
