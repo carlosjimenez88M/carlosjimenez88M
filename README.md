@@ -1,6 +1,6 @@
 ### Hi there 👨🏻‍💻 I 'm Daniel
 
-Experienced Senior Data Scientist with a demonstrated history of working in the Startups and public institutions between USA, Colombia, Chile and México. With more than ten years of experience applying and development Machine Learning models to real world.
+Experienced Senior Data Scientist with a demonstrated history of working in the Startups and public institutions between USA, Colombia, Chile and México. With more than nine years of experience applying and development Machine Learning and statistical models to the real world.
 
 * Currently I working as:
   + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
