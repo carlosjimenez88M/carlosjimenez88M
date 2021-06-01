@@ -3,11 +3,10 @@
 Experienced Senior Data Scientist with a demonstrated history of working in the Startups and public institutions between USA, Colombia, Chile and México. With more than nine years of experience applying and development Machine Learning and statistical models to the real world.
 
 * Currently I am working as:
-  + Machine Learning Enginner at [Inter-American Development Bank](https://www.iadb.org/es/acerca-del-bid/financiamiento-del-bid/financiamiento-del-bid%2C6028.html) (USA 🇺🇸) 🤖;
+
+  + Head Machine Learning at [Mercado Libre](https://www.mercadolibre.com.co/)
   
-  + Senior Data Scientist at [Globant](https://www.globant.com/) (COL 🇨🇴);
-  
-  + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 👨🏻‍🏫 (COL 🇨🇴)
+  + Part-Time Teacher at [National University of Colombia](https://unal.edu.co/) 
 
 * __Skilled in__: NLP, Applied Machine Learning, Statistical Engineering, Forecasting, Bio-statistics and Bayesian Data Analysis.
 
