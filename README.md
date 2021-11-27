@@ -4,8 +4,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
 
 * Currently I am working as:
 
-  + Machine Learning Technical Leader at [Mercado Libre](https://www.mercadolibre.com.co/)
-  
+  + Head of Machine Learning at [Empowerment Labs](https://www.empowermentlabs.co/)
   + Part-Time Teacher at [Universidasd Nacional de Colombia](https://unal.edu.co/) 
   + Academic Advirsor at [Fundación Universitaria Compensar](https://ucompensar.edu.co/)
 
