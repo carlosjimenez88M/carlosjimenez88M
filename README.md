@@ -6,7 +6,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
 
   + Machine Learning Engineer at [Interamerican Development Bank](https://www.iadb.org/)
   + Part-Time Teacher at [Universidasd Nacional de Colombia](https://unal.edu.co/) 
-  + Academic Advirsor at [Fundación Universitaria Compensar](https://ucompensar.edu.co/)
+  
 
 * __Skilled in__: NLP, Applied Machine Learning, Statistical Engineering, Forecasting, Bio-statistics and Bayesian Data Analysis.
 
