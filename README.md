@@ -5,7 +5,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/viviana_marquez_nyc_headshot.jpg" alt="Daniel" />
+      <img align="right" width="200" src="" alt="Daniel" />
       
 <blockquote>
 I'm passionate about Machine Learning and Data Science. Currently full time machine learning engineer working on NLP and dataops applications with software design. I more than a decade of experience applying the use and development of machine learning models to real world issues such as pricing, forecasting, recommender system, web scraping and anomalies detection. Strong combination of theory, and cloud infraestructure knowledge. 
