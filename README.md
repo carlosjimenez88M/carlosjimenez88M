@@ -1,14 +1,26 @@
 ### Hi there 👨🏻‍💻 I 'm Daniel
 
-Experienced Senior Data Scientist with a demonstrated history of working in the Startups and public institutions between USA, Colombia, Chile and México. With more than nine years of experience applying and development Machine Learning and statistical models to the real world.
+
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/viviana_marquez_nyc_headshot.jpg" alt="Daniel" />
+      
+<blockquote>
+I'm passionate about Machine Learning and Data Science. Currently full time machine learning engineer working on NLP and dataops applications with software design. I more than a decade of experience applying the use and development of machine learning models to real world issues such as pricing, forecasting, recommender system, web scraping and anomalies detection. Strong combination of theory, and cloud infraestructure knowledge. 
 
 * Currently I am working as:
 
+  + Data/ML Specialist at [Yale University](https://medicine.yale.edu/)
   + Machine Learning Engineer at [Interamerican Development Bank](https://www.iadb.org/)
-  + Part-Time Teacher at [Universidasd Nacional de Colombia](https://unal.edu.co/) 
+  </blockquote>
+
+  </p>
+</details>
   
 
-* __Skilled in__: NLP, Applied Machine Learning, Statistical Engineering, Forecasting, Bio-statistics and Bayesian Data Analysis.
+* __Skilled in__: NLP, Applied Machine Learning, Statistical Modelling, Forecasting  and Bayesian Data Analysis.
 
 * I’m  collaborator to Machine Learning aplications on Econometrics and Inference modelling (Research).
 
@@ -50,7 +62,7 @@ Experienced Senior Data Scientist with a demonstrated history of working in the 
 ## Connect with me
 
 * https://www.linkedin.com/in/djimenezm/
-* www.danieljimenezm.com
+* https://www.undatascientistdice.com/
 * danieljimenez88m@gmail.com
 
 
