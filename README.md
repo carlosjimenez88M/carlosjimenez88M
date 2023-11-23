@@ -16,7 +16,7 @@ In addition, I've shared my knowledge and expertise as a statistics professor at
 ## 👨🏻‍💻 Projects and work areas:
 
   <p>
-      <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel.jpeg?raw=true" alt="Daniel" />
+      <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel_and_emi.jpeg?raw=true" alt="Daniel" />
 
 
 * AI Developer with TensorFlow.
