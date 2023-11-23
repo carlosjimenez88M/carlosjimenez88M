@@ -6,8 +6,11 @@
 ## 👤  About me :
 
 
-I am a Data Scientist and Machine Learning Engineer focused on NLP and statistical applications to Machine Learning models. Currently, I am an AI Specialist at Yale University, and in addition to that, I work with DataOps topics in Azure for the optimization of CI/CD processes
+I am a Machine Learning Engineer and AI Developer with a deep passion and specialization in developing innovative products in NLP (Natural Language Processing) and LLMs (Large Language Models). My expertise also extends to Computer Vision, utilizing advanced Nvidia hardware, allowing me to explore and create cutting-edge technological solutions.
 
+Throughout my career, I've had the privilege of contributing as an AI developer at renowned institutions and companies, including: Yale University, United Nations (UN),Inter-American Development Bank, Mercado Libre and Rappi. 
+
+In addition, I've shared my knowledge and expertise as a statistics professor at the National University of Colombia, helping to shape the next generation of professionals in this exciting field.
 
 
 ## 👨🏻‍💻 Projects and work areas:
@@ -17,9 +20,9 @@ I am a Data Scientist and Machine Learning Engineer focused on NLP and statistic
 
 
 * AI Developer with TensorFlow.
-* Orchestration with Docker 🐳.
-* Edge Computing (NVIDIA) focused on Computer Vision.
-* GPU Computing
+* DataOps
+* API Designs 
+* Edge and GPU Computing Optimization
 * Analysis of Missing Data
 
 
@@ -48,4 +51,6 @@ I am a Data Scientist and Machine Learning Engineer focused on NLP and statistic
 
 ## 📱 Let's Connect
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/djimenezm/) 
+* [Linkedin](https://www.linkedin.com/in/djimenezm/)
+
+* [Twitter](https://twitter.com/DanielJimenezM9)
