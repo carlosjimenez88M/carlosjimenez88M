@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>, I 'm Daniel
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>, I 'm Carlos Daniel
 
 ![](jetson.jpeg)
 
@@ -6,35 +6,35 @@
 ## 👤  About me :
 
 
-I am a Machine Learning Engineer and AI Developer with a deep passion and specialization in developing innovative products in NLP (Natural Language Processing) and LLMs (Large Language Models). My expertise also extends to Computer Vision, utilizing advanced Nvidia hardware, allowing me to explore and create cutting-edge technological solutions.
+I'm Carlos Daniel, a Colombian 🇨🇴 engineer/data scientist and AI programmer. For some time now, I have been working in the world of NLP and LLMs, alongside developing software applied to machine learning and AI, both from the Cloud and Edge Computing, which is my obsession. Lately, I have been working within the Nvidia ecosystem for inference and system acceleration.
 
-Throughout my career, I've had the privilege of contributing as an AI developer at renowned institutions and companies, including: Yale University, United Nations (UN),Inter-American Development Bank, Mercado Libre and Rappi. 
-
-In addition, I've shared my knowledge and expertise as a statistics professor at the National University of Colombia, helping to shape the next generation of professionals in this exciting field.
-
-
-## 👨🏻‍💻 Projects and work areas:
+## 👨🏻‍💻 Work areas:
 
   <p>
       <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel_and_emi.jpeg?raw=true" alt="Daniel" />
 
 
-* AI Developer with TensorFlow.
-* DataOps
-* API Designs 
-* Edge and GPU Computing Optimization
-* Analysis of Missing Data
+* Tensorflow Developer
+* NLP and LLMs
+* Deep Learning
+* Time Series
+* MLops
+* Software Designs
+* API designs (with [FastAPI](https://fastapi.tiangolo.com/))
+* Machine Learning System Optimization
 
 
 ## 🤖 Successfully implemented products:
 
-* 10 complete NLP projects for: Risk assessment, Project evaluation, Medical record structuring, Resume segment classifiers, and News context generators
+* __I developed an OCR model for a financial entity__ that, in addition to extracting information and storing it in a database, performs calculations on the extracted data. These calculations are then used as inputs for a recommendation system.
 
-* One project implemented with Computer Vision for product identification on shelves
+* __10 Comprehensive NLP Projects:__ Developed for risk assessment, project evaluation, structuring medical records, classifying resume segments, and generating news context.
 
-* 3 time series models with Deep Learning for: Demand planning, Prediction of changes in product trends, and security equipment failure detection
+* __Computer Vision Project:__ Implemented a system for product identification on shelves.
 
-* Over 20 projects implemented in the field of Machine Learning for retail, pricing, product categorization, and more.
+* __3 Deep Learning Time Series Models:__ Designed for demand planning, predicting changes in product trends, and detecting failures in security equipment.
+
+* __Over 20 Machine Learning Projects:__ Executed in various domains including retail, pricing, product categorization, and more.
 
 
 
@@ -49,7 +49,21 @@ In addition, I've shared my knowledge and expertise as a statistics professor at
 
 <br />
 
-## 📱 Let's Connect
+## 👨🏻‍💼 Conferences  Talks
+
+
+For a long time, my work focused on the statistical side, and therefore you will find many talks focused on R. Recently, I have been speaking a lot about Machine Learning focused on DevOps or AI applied to different disciplines, with these recent talks developed in Python. You can find an organized list of all these topics at the following link. <https://github.com/carlosjimenez88M/talks>
+
+
+## 🧑🏻‍🏫 Courses
+
+At the following link, you will find some of the classes I have taught and can share.
+<https://github.com/carlosjimenez88M/Courses>
+
+
+## 📱 Talk to me!
+
+Feel free to contact me or reach out through any of these means:
 
 * [Linkedin](https://www.linkedin.com/in/djimenezm/)
 
