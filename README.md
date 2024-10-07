@@ -3,25 +3,21 @@
 ![](jetson.jpeg)
 
 
-## 👤  About me :
+## 👨🏻‍💻 About me :
 
 
-I'm Carlos Daniel, a Colombian 🇨🇴 engineer/data scientist and AI programmer. For some time now, I have been working in the world of NLP and LLMs, alongside developing software applied to machine learning and AI, both from the Cloud and Edge Computing, which is my obsession. Lately, I have been working within the Nvidia ecosystem for inference and system acceleration.
-
+I am Carlos Daniel Jiménez, a Machine Learning DevOps Engineer and AI Programmer, specializing in NLP (and its LLM variants), Software Development, Applied Machine Learning, and Edge Computing. I work with NVIDIA's framework to accelerate the end-to-end process in Data Science, and with Raspberry Pi in the entire area of pipeline development.
 ## 👨🏻‍💻 Work areas:
 
   <p>
       <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel_and_emi.jpeg?raw=true" alt="Daniel" />
 
 
-* Tensorflow Developer
-* NLP and LLMs
-* Deep Learning
-* Time Series
-* MLops
-* Software Designs
-* API designs (with [FastAPI](https://fastapi.tiangolo.com/))
-* Machine Learning System Optimization
+* NLP and LLMS 📖
+* Tensorflow developer 🤖
+* Software Design  🖥️
+* Mlops 🧑🏻‍💻
+* Robotics 🦾
 
 
 ## 🤖 Successfully implemented products:
@@ -37,17 +33,15 @@ I'm Carlos Daniel, a Colombian 🇨🇴 engineer/data scientist and AI programme
 * __Over 20 Machine Learning Projects:__ Executed in various domains including retail, pricing, product categorization, and more.
 
 
-
-
-
-
-
 <!--END_SECTION:waka-->
 
-
-
-
 <br />
+
+## 🐎 Workhorse
+
+For at least a year, to optimize my work as a Machine Learning DevOps Engineer and streamline my activities, I adopted the strategy of working with a Raspberry Pi connected to my iPad, and honestly, I love it!
+
+![](images/raspberry-ipad.jpeg)
 
 ## 👨🏻‍💼 Conferences  Talks
 
