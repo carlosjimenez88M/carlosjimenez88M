@@ -6,25 +6,25 @@
 ## 👨🏻‍💻 About me :
 
 
-I am Carlos Daniel Jiménez, a Machine Learning DevOps Engineer and AI Programmer, specializing in NLP (and its LLM variants), Software Development, Applied Machine Learning, and Edge Computing. I work with NVIDIA's framework to accelerate the end-to-end process in Data Science, and with Raspberry Pi in the entire area of pipeline development.
+AI and Machine Learning DevOps Engineer Advocate who develops products through software design. I specialize in Deep Learning, LLMs, AI Programming, and time series. I’m passionate about Edge Machine Learning, using tools like the Jetson Nano (AI and Deep Learning) and the Raspberry Pi (Machine Learning and Programming). Nowadays, I work in Robotics Engineering and the Cloud!
 ## 👨🏻‍💻 Work areas:
 
   <p>
       <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel_and_emi.jpeg?raw=true" alt="Daniel" />
 
 
-* NLP and LLMS 📖
-* Tensorflow developer 🤖
-* Software Design  🖥️
-* Mlops 🧑🏻‍💻
-* Robotics 🦾
+* Deep Learning
+* AI Programming
+* LLms and Rags Systems
+* AI Agents 
+* MLops
 
 
 ## 🤖 Successfully implemented products:
 
 * __I developed an OCR model for a financial entity__ that, in addition to extracting information and storing it in a database, performs calculations on the extracted data. These calculations are then used as inputs for a recommendation system.
 
-* __10 Comprehensive NLP Projects:__ Developed for risk assessment, project evaluation, structuring medical records, classifying resume segments, and generating news context.
+* __30 Comprehensive NLP Projects:__ Developed for risk assessment, project evaluation, structuring medical records, classifying resume segments, and generating news context.
 
 * __Computer Vision Project:__ Implemented a system for product identification on shelves.
 
