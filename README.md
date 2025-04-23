@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 About me :
 
 
-Software AI Engineer with a focus on MLOps, LLMs, statistical applications in Machine Learning, and time series. Passionate about Edge and Cloud Computing, AI programming, and the Nvidia technology stack.
+AI Software Engineer with a focus on MLOps, LLMs, statistical applications in Machine Learning, and time series. Passionate about Edge and Cloud Computing, AI programming, and the Nvidia technology stack.
 
 ## 👨🏻‍💻 Work areas:
 
