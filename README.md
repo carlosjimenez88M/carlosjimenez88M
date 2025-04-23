@@ -6,18 +6,21 @@
 ## 👨🏻‍💻 About me :
 
 
-AI and Machine Learning DevOps Engineer Advocate who develops products through software design. I specialize in Deep Learning, LLMs, AI Programming, and time series. I’m passionate about Edge Machine Learning, using tools like the Jetson Nano (AI and Deep Learning) and the Raspberry Pi (Machine Learning and Programming). Nowadays, I work in Robotics Engineering and the Cloud!
+Software AI Engineer with a focus on MLOps, LLMs, statistical applications in Machine Learning, and time series. Passionate about Edge and Cloud Computing, AI programming, and the Nvidia technology stack.
+
 ## 👨🏻‍💻 Work areas:
 
   <p>
       <img align="right" width="200" src="https://github.com/carlosjimenez88M/carlosjimenez88M/blob/master/images/daniel_and_emi.jpeg?raw=true" alt="Daniel" />
 
 
-* Deep Learning
-* AI Programming
-* LLms and Rags Systems
-* AI Agents 
-* MLops
+* Machine Learning Devops Engineering 
+* GitOps
+* LLMs, Rags and MCPs
+* Yolo - Computer Vision 
+* Docker - Kubernetes
+* FastAPI
+* MLflow
 
 
 ## 🤖 Successfully implemented products:
