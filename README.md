@@ -1,12 +1,39 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>, I 'm Carlos Daniel
 
-![](jetson.jpeg)
+<p align="center">
+  <img src="images/descarga.jpeg" alt="Profile Image" width="400" />
+</p>
+
 
 
 ## 👨🏻‍💻 About me :
 
 
-AI Software Engineer with a focus on MLOps, LLMs, statistical applications in Machine Learning, and time series. Passionate about Edge and Cloud Computing, AI programming, and the Nvidia technology stack.
+I work at the intersection of AI and MLOps, focusing my efforts on scalability, performance, and efficiency, in both Language Models (LLMs) and Classical Machine Learning. My research centers on Edge Computing, as well as statistical modeling applied to Machine Learning, and to a lesser extent, the acceleration of training and workflows using GPUs
+
+<details>  
+<summary>  🤖 Data scientist | AI Engineer Experience </summary>
+    <ul>
+    <li>More than 12 years of experience in Machine Learning and AI in top organizations in the United States and Latin America, across industries such as: Banking, Healthcare, Retail, Entertainment, and Human Resources.</li>
+    <li>More than 30 products developed from scratch and deployed into production</li>
+    <li>Former developer of packages or libraries in R.</li>
+    <li>I focus the development of ML models with statistical applications.</li>
+    <li>I constantly think about Design Systems for solution development.</li>
+    <li>Expert in MLOps, Automation, and the design of custom solutions.</li>
+</details>
+
+<details>  
+<summary>  👨🏻‍🏫 Academic Experience </summary>
+<li>I have been a professor in Colombia, México, Perú, Chile, and Spain.</li>
+<li>The subjects I generally teach are: Machine Learning, Applied Statistics for Data Science, and Bayesian Statistics.</li>
+</details>
+
+<details>  
+<summary>  🦿 Edge Computing and Robotics </summary>
+<li>I work with the Raspberry Pi (5) on topics related to AI Programming and Computer Vision-based Robotics.</li>
+<li>With the Jetson Nano, I work with language model</li>
+<details>  
+
 
 ## 👨🏻‍💻 Work areas:
 
