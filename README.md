@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Carlos Daniel
 
 <p align="center">
-  <img src="images/descarga.jpeg" alt="Profile Image" width="400" />
+  <img src="images.jpeg" alt="Profile Image" width="400" />
 </p>
 
 
